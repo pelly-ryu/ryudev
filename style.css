@@ -3,7 +3,7 @@
   font-weight: normal; 
   font-style: normal; 
   src: url(https://cdn.jsdelivr.net/gh/webfontworld/woowahan/BMKirangHaeRang.woff2) format('woff2');
-  font-display: optional;
+  font-display: swap;
 }
 
 body {
