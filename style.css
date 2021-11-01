@@ -12,6 +12,9 @@ body {
   font-size: 16px;
   line-height: 1.8;
 }
+h1 {
+  margin-bottom: 20px;
+}
 main {
   margin: 0 auto;
   max-width: 700px;
@@ -25,7 +28,7 @@ wired-card {
 }
 section {
   max-width: 400px;
-  margin: 0 auto;
+  margin: 20px auto;
   padding: 60px 0;
 }
 wired-button {
